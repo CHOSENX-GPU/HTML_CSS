@@ -1,5 +1,5 @@
 
-# Learning Notes
+# Learning Notes of HTML&cCSS
 
 
-A simple recoding for my HTML&CSS learning process
+My simple recoding for the HTML&CSS learning process from [One-Month](https://onemonth.com/courses/html).
